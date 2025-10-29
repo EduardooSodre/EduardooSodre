@@ -50,10 +50,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
-### ⚙️ How to make it always work
-1. Go to [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Click **“Deploy on Vercel”**
-3. Add this environment variable:
